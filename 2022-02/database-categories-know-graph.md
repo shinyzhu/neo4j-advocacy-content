@@ -6,5 +6,14 @@
 
 ## 回顾数据库的历史
 
+CSDN发布的[第二期《新程序员》](https://newprogrammer.blog.csdn.net/article/details/120199739)的主题之一是“**新数据库时代：带你走进数据库的全新阶段**”，其中有如下描述：
+
+> 在开源吞噬软件、互联网数据海量的今天，数据库进入了全新阶段：新型数据库全面兴起、数据库开源已成趋势、数字化转型势在必行、资本热潮喷涌而出。
+
+> 数据库全景图内含关系型数据库、面向文档的数据库、键值数据库、图数据库、时序数据库、列存储数据库、搜索引擎数据库等各类开源及闭源产品。
+
+同时在2021年[CSDN 1024程序员节](https://1024.csdn.net)的主题为“[六大国际数据库掌门人尖峰对话](https://live.csdn.net/v/180165)”的圆桌讨论上，Neo4j创始人兼CEO Emil Eifrem分享了[图数据平台引领数据库未来十年发展](https://blog.csdn.net/Jennifer726/article/details/121123696?spm=1001.2014.3001.5501)的观点。
 
 
+
+![img](database-categories-know-graph/main-qimg-c623718cbdd2b47e55d0dd7c6ef54e24-c.jpeg)
