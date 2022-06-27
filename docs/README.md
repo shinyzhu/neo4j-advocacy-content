@@ -53,3 +53,15 @@
 
 - [2022-05/blog-introducing-gds20.md](2022-05/blog-introducing-gds20.md)
 - [2022-05/demo-supply-chain.md](2022-05/demo-supply-chain.md)
+- [2022-05/course-gds-intro.md](2022-05/course-gds-intro.md)
+- [2022-05/neo4j-china-gm-announcement.md](2022-05/neo4j-china-gm-announcement.md)
+
+### 2022-06
+
+- [2022-06/course-gds-fund.md](2022-06/course-gds-fund.md)
+- [2022-06/learn-gds-by-sandbox.md](2022-06/learn-gds-by-sandbox.md)
+- [2022-06/event-promo-cds0608.md](2022-06/event-promo-cds0608.md)
+- [2022-06/neo4j-industry-groups.md](2022-06/neo4j-industry-groups.md)
+- [2022-06/graph-viz-with-echarts.md](2022-06/graph-viz-with-echarts.md)
+- [2022-06/neo4j-visualization-tools-intro.md](2022-06/neo4j-visualization-tools-intro.md)
+- [2022-06/graphconnect2022-announcements.md](2022-06/graphconnect2022-announcements.md)
