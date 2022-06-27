@@ -112,3 +112,23 @@ Graph Data Science（图数据科学，简称 GDS）通过一个易于使用的�
 
 随着我们在接下来的几周和几个月内推出这些和其他新产品，我们期待听到您自己在图空间中的工作是如何演变的。欢迎跟我们反馈你的使用经历。
 
+### 资源链接
+
+了解 Neo4j Workspace：
+
+`https://neo4j.com/product/workspace/`
+
+启动你的 GDS 沙箱：
+
+`https://neo4j.com/data-science-sandbox/`
+
+访问 Neo4j 数据仓库连接器 Github 页面：
+
+`https://github.com/neo4j-contrib/neo4j-dwh-connector/`
+
+[1]: https://neo4j.com/product/workspace/?ref=blog
+[2]: https://neo4j.com/docs/graph-data-science/2.1/algorithms/alpha/leiden/
+[3]: https://neo4j.com/docs/graph-data-science/2.1/algorithms/alpha/kmeans/
+[4]: https://neo4j.com/docs/graph-data-science/2.1/machine-learning/node-property-prediction/noderegression-pipelines/
+[5]: https://neo4j.com/data-science-sandbox/?ref=blog
+[6]: https://github.com/neo4j-contrib/neo4j-dwh-connector/?ref=blog
