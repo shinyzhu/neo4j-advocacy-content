@@ -1,5 +1,7 @@
 # Neo4j Advocacy Content
 
+## Introduction
+
 This repo is to host the Neo4j developer and data scientist content in Chinese. 
 
 Proudly bring to you by the Neo4j APAC/China team.
@@ -8,7 +10,7 @@ You can find the content published on Neo4j WeChat Subscription Account (QR code
 
 Catalog: [docs/README.md](docs/README.md)
 
----
+## 简介
 
 这个代码库用来存放和管理Neo4j中文技术内容，由Neo4j亚太团队为您呈献。
 
@@ -18,3 +20,20 @@ Catalog: [docs/README.md](docs/README.md)
 
 ![neo4j-wechat-account](neo4j-wechat-account.jpg)
 
+## How to view the content with Docsify
+
+You'd probably find there are `package` json files. Yes! I'm using Docsify to host the content. You can do it as well by just 2 steps:
+
+1. Install Docsify
+
+```
+npm i docsify-cli
+```
+
+2. Run Docsify
+
+```
+npx docsify serve docs
+```
+
+Then you can visit http://localhost:3000 to see the content.
