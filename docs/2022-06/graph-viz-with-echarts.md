@@ -1,4 +1,4 @@
-# 使用 ECharts 可视化 Neo4j 数据
+# 使用 Apache ECharts 可视化 Neo4j 图数据
 
 2022-06-15
 
