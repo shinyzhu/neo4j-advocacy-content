@@ -6,7 +6,7 @@
 
 ## 概述
 
-Crunchbase 于2007年在美国旧金山创立，是一家覆盖全球各地区初创公司及投资机构的企业服务数据库公司。 Crunchbase 给出了公司层面的投资系列，并给出了公司状态。 我们通过分析Crunchbase 部分开放的数据 https://www.kaggle.com/datasets/arindam235/startup-investments-crunchbase，可以探查公司之间的投资关系，发现投资和其他标准，并有助于探究是否公司的各种运营/关闭/收购阶段。
+Crunchbase 于2007年在美国旧金山创立，是一家覆盖全球各地区初创公司及投资机构的企业服务数据库公司。 Crunchbase 给出了公司层面的投资系列，并给出了公司状态。 我们通过分析Crunchbase 部分[开放的数据](https://www.kaggle.com/datasets/arindam235/startup-investments-crunchbase)，可以探查公司之间的投资关系，发现投资和其他标准，并有助于探究是否公司的各种运营/关闭/收购阶段。
 
 ## 数据导入
 
