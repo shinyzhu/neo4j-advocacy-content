@@ -48,6 +48,25 @@ NeoDash是一个图形应用程序，可以在几分钟内通过Neo4j图形构�
 
 ![791656388288_.pic](analyze-crunchbase-investments-with-neo4j/791656388288_.pic.jpg)
 
+我们可以创建公司投资之间的内存子图
+
+```cypher
+CALL gds.graph.create.cypher(
+  'companies',
+  'MATCH (n:Company) RETURN id(n) AS id',
+  'MATCH (n:Company)-[:HAS_FUND]-(:Fund)-[:FUNDING_TO]->(m:Company) RETURN id(n) AS source, id(m) AS target')
+YIELD
+  graphName AS graph, nodeQuery, nodeCount AS nodes, relationshipQuery, relationshipCount AS rels
+```
+
+通过分析，我们发现最大的联通子图成员有45030个成员。
+
+![1151656394454_.pic](analyze-crunchbase-investments-with-neo4j/1151656394454_.pic.jpg)
+
+针对最大联通子图（也即社区号为7），我们可以继续创建内存子图，然后运行Page Rank 算法，找出投资指向最多的公司，下图显示Texxi公司获得了最高的PR分数。
+
+![1141656394454_.pic](analyze-crunchbase-investments-with-neo4j/1141656394454_.pic.jpg)
+
 ## Bloom 进行投资探查
 
 Neo4j Bloom 是一个用于交互式探索 Neo4j 图数据的工具。Neo4j Browser 主要由开发人员使用，而 Bloom 更适合数据分析师——那些想要动态可视化图数据和交互图数据的用户。Bloom 支持基于文本的搜索，没有 Cypher 知识的业务用户也可以容易的分析和探索 Neo4j 图数据。
@@ -55,6 +74,10 @@ Neo4j Bloom 是一个用于交互式探索 Neo4j 图数据的工具。Neo4j Brow
 我们可以使用 Bloom 浏览图形。下面是一个示例，用于通过多次跳转，查询了IAC公司收购了多家公司。
 
 ![1091656391486_.pic](analyze-crunchbase-investments-with-neo4j/1091656391486_.pic.jpg)
+
+同时，针对投资指向最多的公司Texxi，可以通过Bloom直观显示有23笔投资投入。
+
+![1131656394454_.pic](analyze-crunchbase-investments-with-neo4j/1131656394454_.pic.jpg)
 
 ## 结语
 
