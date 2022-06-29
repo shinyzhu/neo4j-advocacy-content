@@ -91,3 +91,8 @@ Neo4j是全球领先的图数据平台领导者，在企业级数据库基础之
 
 #### [立即报名](http://dataintelligencetribe.mikecrm.com/H81tW1J)
 
+---
+
+不想错过未来的精彩内容？点击[这里](https://go.neo4j.com/china-opt-in.html)或者扫描下面的二维码马上加入。
+
+![img](dev-newsletter-june/AK_CYVIsl2Q9QWjQakyNnrAPsmPtdGbqP6-AjsT2MYN9_coaenq6dm8urQYlj0gaVZG-jHJ8df43h9aTTZWUd0nK8DqFi2Y9q23k1VR4RbUwi_QyKMgfzNN3IOkxfp2dnnuKdiz4FybGiNTNyA.png)
