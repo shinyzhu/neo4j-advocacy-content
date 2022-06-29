@@ -65,3 +65,4 @@
 - [2022-06/graphconnect2022-announcements.md](2022-06/graphconnect2022-announcements.md)
 - [2022-06/news-interview-alicia-and-robin.md](2022-06/news-interview-alicia-and-robin.md)
 - [2022-06/analyze-crunchbase-investments-with-neo4j.md](2022-06/analyze-crunchbase-investments-with-neo4j.md)
+- [2022-06/dev-newsletter-june.md](2022-06/dev-newsletter-june.md)
