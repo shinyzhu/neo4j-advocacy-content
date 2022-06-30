@@ -1,6 +1,6 @@
-# 使用 Neo4j 分析 CrunchDB 公司投资关系
+# 使用 Neo4j 分析 Crunchbase 公司投资关系
 
-作者：Tony Wu
+作者：Tony Wu - Neo4j 高级技术顾问
 
 发布日期：2022-07-04
 
@@ -18,7 +18,7 @@ Crunchbase 数据集被导入Neo4j后，我们构建了数据模型。对关系�
 
 ![781656388287_.pic](analyze-crunchbase-investments-with-neo4j/781656388287_.pic.jpg)
 
-## 利用 Neodash 统计分析
+## 利用 NeoDash 统计分析
 
 NeoDash是一个图形应用程序，可以在几分钟内通过Neo4j图形构建仪表板。您可以使用图形数据库创建多页可视化效果。有多个选项可以显示数据，例如地图，表格，条形图，饼图，图形，折线图等。它还允许设置影响其他可视化效果的动态参数。创建仪表板后，可以将其作为节点保存到图形数据库中。
 
@@ -34,7 +34,7 @@ NeoDash是一个图形应用程序，可以在几分钟内通过Neo4j图形构�
 
 ![751656388286_.pic](analyze-crunchbase-investments-with-neo4j/751656388286_.pic.jpg)
 
-## GDS分析投资走向和投资相似性
+## 使用 GDS 分析投资走向和投资相似性
 
 我们还可以使用GDS来获取一些有趣的数据，例如从一家公司到另一家公司的三角融资。 这些显示了使用Neodash的Neo4j GDS三角形算法检测到的三角形投资a->b->c->a。
 
@@ -67,7 +67,7 @@ YIELD
 
 ![1141656394454_.pic](analyze-crunchbase-investments-with-neo4j/1141656394454_.pic.jpg)
 
-## Bloom 进行投资探查
+## 使用 Neo4j Bloom 进行投资探查
 
 Neo4j Bloom 是一个用于交互式探索 Neo4j 图数据的工具。Neo4j Browser 主要由开发人员使用，而 Bloom 更适合数据分析师——那些想要动态可视化图数据和交互图数据的用户。Bloom 支持基于文本的搜索，没有 Cypher 知识的业务用户也可以容易的分析和探索 Neo4j 图数据。
 
@@ -82,6 +82,12 @@ Neo4j Bloom 是一个用于交互式探索 Neo4j 图数据的工具。Neo4j Brow
 ## 结语
 
 通过分析公司之间的投资关系，可以更好的发现探究是否公司的各种运营，关闭，收购阶段，同时该知识图谱可以扩展数据，如法人信息，法人之间关系，注册地信息，能够构建知识图谱，从而实现获益人分析，实体解析，或者非法获利等对知识图谱的广泛应用。
+
+### 数据
+
+Kaggle 比赛数据
+
+https://www.kaggle.com/datasets/arindam235/startup-investments-crunchbase
 
 ### 更多资源
 
