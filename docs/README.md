@@ -66,3 +66,8 @@
 - [2022-06/news-interview-alicia-and-robin.md](2022-06/news-interview-alicia-and-robin.md)
 - [2022-06/analyze-crunchbase-investments-with-neo4j.md](2022-06/analyze-crunchbase-investments-with-neo4j.md)
 - [2022-06/dev-newsletter-june.md](2022-06/dev-newsletter-june.md)
+
+## 2022-07
+
+- [2022-07/code-golf-challenge-launch.md](2022-07/code-golf-challenge-launch.md)
+- [2022-07/nom-1-0-release.md](2022-07/nom-1-0-release.md)
