@@ -20,7 +20,24 @@ Catalog: [docs/README.md](docs/README.md)
 
 ![neo4j-wechat-account](neo4j-wechat-account.jpg)
 
-## How to view the content with Docsify
+## How to contribute your content
+
+As simple as following the steps:
+
+1. Fork this repo.
+2. Add your content under `docs/yyyy-mm` folder with English file name.
+3. Put static resources (Images, ext files etc) under the folder named the same as your `md` file.
+4. Submit PR when the content is ready.
+
+I use Typora to edit `md` files. You'd follow this Image settings if you like:
+
+![](typora-image-settings.png)
+
+Enjoy writing!
+
+---
+
+## How to view the content online with Docsify
 
 You'd probably find there are `package` json files. Yes! I'm using Docsify to host the content. You can do it as well by just 2 steps:
 
@@ -39,18 +56,3 @@ npx docsify serve docs
 Then you can visit http://localhost:3000 to see the content.
 
 ### View it live: <https://graph.community>
-
-## How to contribute your content
-
-As simple as following the steps:
-
-1. Fork this repo.
-2. Add your content under `docs/yyyy-mm` folder with English file name.
-3. Put static resources (Images, ext files etc) under the folder named the same as your `md` file.
-4. Submit PR when the content is ready.
-
-I use Typora to edit `md` files. You'd follow this Image settings if you like:
-
-![](typora-image-settings.png)
-
-Enjoy writing!
