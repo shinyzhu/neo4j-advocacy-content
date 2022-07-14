@@ -72,5 +72,6 @@
 - [2022-07/code-golf-challenge-launch.md](2022-07/code-golf-challenge-launch.md)
 - [2022-07/nom-1-0-release.md](2022-07/nom-1-0-release.md)
 - [2022-07/manage-and-monitor-Neo4j-by-Ops-Manager.md](2022-07/manage-and-monitor-Neo4j-by-Ops-Manager.md)
+- [2022-07/neo4j-visulization-neovis-intro.md](2022-07/neo4j-visulization-neovis-intro.md)
 - [2022-07/implement-doctor-ai-with-alan-neovisjs.md](2022-07/implement-doctor-ai-with-alan-neovisjs.md)
 
