@@ -1,6 +1,6 @@
 # Neo4j图数据可视化 —— 之Neovis.js篇
 
-作者：LiuYang，Neo4j 高级技术顾问
+作者：刘洋，Neo4j 高级技术顾问
 
 日期：2022-07-13
 
@@ -52,7 +52,7 @@ MATCH p=()-[r:PLAYED_IN]->() RETURN p LIMIT 200
 
 ![image-20220708191238082-7278759](neo4j-visulization-neovis-intro/image-20220708191238082-7278759.png)
 
-## 使用Neovis.js 可视化以上数据结果
+## 使用 Neovis.js 可视化以上数据结果
 
 下载Github Neovis.js 代码包（https://github.com/neo4j-contrib/neovis.js/），复制位于example目录下的twitter-trolls.html 文件，粘贴并重命名为 football.html。参考Sandbox 中的Connection details信息，修改football.html文件中Neo4j数据库连接信息。
 
@@ -119,3 +119,7 @@ football.html 代码参考：
 
 Neovis.js 示例包在Github的地址：https://github.com/neo4j-contrib/neovis.js/
 
+可视化系列文章：
+
+- Neo4j 图数据可视化工具介绍
+- 使用 Apache ECharts 可视化 Neo4j 图数据
