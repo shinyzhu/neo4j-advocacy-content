@@ -75,4 +75,5 @@
 - [2022-07/neo4j-visulization-neovis-intro.md](2022-07/neo4j-visulization-neovis-intro.md)
 - [2022-07/implement-doctor-ai-with-alan-neovisjs.md](2022-07/implement-doctor-ai-with-alan-neovisjs.md)
 - [2022-07/event-cds-0720-lastcall.md](2022-07/event-cds-0720-lastcall.md)
+- [2022-07/brief-history-of-graphs.md](2022-07/brief-history-of-graphs.md)
 
