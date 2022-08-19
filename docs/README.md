@@ -2,6 +2,8 @@
 
 ## 2022-08
 
+- [2022-08/nodes22-cfp.md](2022-08/nodes22-cfp.md)
+
 ## 2022-07
 
 - [2022-07/code-golf-challenge-launch.md](2022-07/code-golf-challenge-launch.md)
