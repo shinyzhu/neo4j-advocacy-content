@@ -3,6 +3,7 @@
 ## 2022-08
 
 - [2022-08/nodes22-cfp.md](2022-08/nodes22-cfp.md)
+- [2022-08/news-chandra.md](2022-08/news-chandra.md)
 
 ## 2022-07
 
