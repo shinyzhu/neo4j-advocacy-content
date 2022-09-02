@@ -1,5 +1,10 @@
 # Neo4j Advocacy Content Catalog
 
+## 2022-09
+
+- [2022-09/noe4j-fabric-getting-started.md](2022-09/noe4j-fabric-getting-started.md)
+- [2022-09/nodes2021-worlds-biggest-graph-database.md](2022-09/nodes2021-worlds-biggest-graph-database.md)
+
 ## 2022-08
 
 - [2022-08/nodes22-cfp.md](2022-08/nodes22-cfp.md)
