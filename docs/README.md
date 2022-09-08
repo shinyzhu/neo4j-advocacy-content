@@ -2,6 +2,7 @@
 
 ## 2022-09
 
+- [2022-09/redirect-neo4j-logs-to-sysout-using-rsyslog.md](2022-09/redirect-neo4j-logs-to-sysout-using-rsyslog.md)
 - [2022-09/csdn-neo4j-skill-tree-feedback-challenge.md](2022-09/csdn-neo4j-skill-tree-feedback-challenge.md)
 - [2022-09/financial-system-ha-neo4j-clustering.md](2022-09/financial-system-ha-neo4j-clustering.md)
 - [2022-09/event-cds-0914.md](2022-09/event-cds-0914.md)
