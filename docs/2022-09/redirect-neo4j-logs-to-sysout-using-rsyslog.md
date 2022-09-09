@@ -2,7 +2,7 @@
 
 ![neo4j-coderain](redirect-neo4j-logs-to-sysout-using-rsyslog/neo4j-coderain.png)
 
-作者：**Tony Wu 博士**，Neo4j亚太高级技术顾问
+作者：**Tony Wu 博士**，Neo4j亚太区高级技术顾问
 
 ## 摘要
 
@@ -12,7 +12,7 @@
 
 我们希望将所有应用程序日志输出到 Linux 的 sysout。虽然 Neo4j 不提供此功能，但我们可以使用 rsyslog 来实现这一点。
 
-我们可以通过下面几个简单的步骤来实现。该方法适用于 Neo4j 4.x 及以上版本。
+通过下面几个简单的步骤就可以实现。该方法适用于 Neo4j 4.x 及以上版本。
 
 下面看看详细的配置步骤。
 
@@ -107,3 +107,10 @@ https://www.rsyslog.com/doc/v8-stable/configuration/modules/imfile.html
 
 https://www.rsyslog.com/
 
+> 关于 Neo4j
+
+Neo4j 是世界领先的图数据平台。Neo4j 提供实时交易处理、先进的人工智能和机器学习以及直观的数据可视化等解决方案。
+
+我们帮助(Comcast)康卡斯特、ICIJ、NASA、(UBS)瑞银集团和(Volvo)沃尔沃汽车等企业，捕获真实环境下丰富的数据上下文关系，从而解决任何规模的挑战。我们的客户通过遏制金融欺诈和网络犯罪、优化全球网络、加速突破性研究及提供更优推荐来实现其行业变革。
+
+请访问官方网站 neo4j.com 了解更多信息，并通过邮件**(china)-[:AT]->(neo4j.com)**与 Neo4j 中国团队取得联系。
