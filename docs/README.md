@@ -2,6 +2,7 @@
 
 ## 2022-09
 
+- [2022-09/graphtalk-0928.md](2022-09/graphtalk-0928.md)
 - [2022-09/neo4j-transaction-management-and-lock.md](2022-09/neo4j-transaction-management-and-lock.md)
 - [2022-09/news-fet-tw.md](2022-09/news-fet-tw.md)
 - [2022-09/redirect-neo4j-logs-to-sysout-using-rsyslog.md](2022-09/redirect-neo4j-logs-to-sysout-using-rsyslog.md)
