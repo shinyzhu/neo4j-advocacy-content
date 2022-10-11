@@ -1,5 +1,9 @@
 # Neo4j Advocacy Content Catalog
 
+## 2022-10
+
+- [2022-10/event-cds-1019.md](2022-10/event-cds-1019.md)
+
 ## 2022-09
 
 - [2022-09/graphtalk-0928.md](2022-09/graphtalk-0928.md)
