@@ -2,6 +2,7 @@
 
 ## 2022-10
 
+- [2022-10/idc-dx-2022-beijing.md](2022-10/idc-dx-2022-beijing.md)
 - [2022-10/nodes-workshop-all.md](2022-10/nodes-workshop-all.md)
 - [2022-10/event-cds-1019.md](2022-10/event-cds-1019.md)
 
