@@ -2,6 +2,7 @@
 
 ## 2022-10
 
+- [2022-10/nodes-2022-workshop-4-blazing-fast-graph.md](2022-10/nodes-2022-workshop-4-blazing-fast-graph.md)
 - [2022-10/cus-interview-xyd.md](2022-10/cus-interview-xyd.md)
 - [2022-10/nodes-2022-workshop-1-intro-to-neo4j.md](2022-10/nodes-2022-workshop-1-intro-to-neo4j.md)
 - [2022-10/idc-dx-2022-beijing.md](2022-10/idc-dx-2022-beijing.md)
