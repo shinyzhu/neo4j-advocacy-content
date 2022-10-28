@@ -147,7 +147,7 @@ RETURN a , count(a) as likesInCommon
 
 在前面的部分中，我说过 Neo4j 不支持关系属性索引。这几乎是真的。实际上有一种特殊情况。可以使用 Lucene 来索引关系上的文本属性。
 
-参考[此文档](https://neo4j.com/docs/cypher-manual/current/administration/indexes-for-full-text-search/#administration-indexes-fulltext-search-create-and-configure)，你可以像这样调用：
+参考[此文档](https://neo4j.com/docs/cypher-manual/current/indexes-for-full-text-search/)，你可以像这样调用：
 
 ```cypher
 CALL db.index.fulltext.createRelationshipIndex("taggedByRelationshipIndex",["FOLLOWS"],["date"], { finally_consistent: "true" })
