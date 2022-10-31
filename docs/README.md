@@ -2,6 +2,7 @@
 
 ## 2022-10
 
+- [2022-10/nodes-2022-agenda-announcement.md](2022-10/nodes-2022-agenda-announcement.md)
 - [2022-10/graph-modeling-all-about-super-nodes.md](2022-10/graph-modeling-all-about-super-nodes.md)
 - [2022-10/graph-tech-beat-fraud.md](2022-10/graph-tech-beat-fraud.md)
 - [2022-10/nodes-2022-workshop-4-blazing-fast-graph.md](2022-10/nodes-2022-workshop-4-blazing-fast-graph.md)
