@@ -1,5 +1,9 @@
 # Neo4j Advocacy Content Catalog
 
+## 2022-11
+
+- [2022-11/announcing-neo4j-5.md](2022-11/announcing-neo4j-5.md)
+
 ## 2022-10
 
 - [2022-10/nodes-2022-agenda-announcement.md](2022-10/nodes-2022-agenda-announcement.md)
