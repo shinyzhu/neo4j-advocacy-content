@@ -2,6 +2,7 @@
 
 ## 2022-11
 
+- [2022-11/event-cds-1123.md](2022-11/event-cds-1123.md)
 - [2022-11/nodes22-watch-partners.md](nodes22-watch-partners.md)
 - [2022-11/announcing-neo4j-5.md](2022-11/announcing-neo4j-5.md)
 
