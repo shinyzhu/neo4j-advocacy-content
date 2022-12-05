@@ -2,10 +2,10 @@
 
 ## 2022-12
 
-- [2022-12/dev-newsletter-202209.md](2022-12/dev-newsletter-202209.md)
-- [2022-12/dev-newsletter-202210.md](2022-12/dev-newsletter-202210.md)
-- [2022-12/dev-newsletter-202211.md](2022-12/dev-newsletter-202211.md)
 - [2022-12/dev-newsletter-202212.md](2022-12/dev-newsletter-202212.md)
+- [2022-12/dev-newsletter-202211.md](2022-12/dev-newsletter-202211.md)
+- [2022-12/dev-newsletter-202210.md](2022-12/dev-newsletter-202210.md)
+- [2022-12/dev-newsletter-202209.md](2022-12/dev-newsletter-202209.md)
 
 ## 2022-11
 
