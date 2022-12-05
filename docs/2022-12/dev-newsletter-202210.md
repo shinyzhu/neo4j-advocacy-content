@@ -2,7 +2,7 @@
 
 ![neo4j-dev-newsletter-cover](dev-newsletter-202210/neo4j-dev-newsletter-cover.jpg)
 
-这是Neo4j中文开发者月刊的9月份的一期，订阅了邮件动态的伙伴是在10月29日收到。如果你想第一时间收到这份月刊，欢迎[填写这个表单](https://go.neo4j.com/china-opt-in.html)订阅。以下是本期月刊内容。
+这是Neo4j中文开发者月刊的10月份的一期，订阅了邮件动态的伙伴是在10月29日收到。如果你想第一时间收到这份月刊，欢迎[填写这个表单](https://go.neo4j.com/china-opt-in.html)订阅。以下是本期月刊内容。
 
 ---
 
