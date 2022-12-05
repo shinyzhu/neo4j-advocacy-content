@@ -1,5 +1,12 @@
 # Neo4j Advocacy Content Catalog
 
+## 2022-12
+
+- [2022-12/dev-newsletter-202209.md](2022-12/dev-newsletter-202209.md)
+- [2022-12/dev-newsletter-202210.md](2022-12/dev-newsletter-202210.md)
+- [2022-12/dev-newsletter-202211.md](2022-12/dev-newsletter-202211.md)
+- [2022-12/dev-newsletter-202212.md](2022-12/dev-newsletter-202212.md)
+
 ## 2022-11
 
 - [2022-11/news-graph-tech-network-security.md](2022-11/news-graph-tech-network-security.md)
