@@ -54,7 +54,7 @@ Neo4j 5 在传统数据库的基础上扩大了原生图的性能优势，同时
 
 ## 社区故事
 
-## ![img](dev-newsletter-202211/ePNHTWTpWhGqlOyT5aV3aqkmDCvy2w2z6x2toIZd1kKZJfHcAgOppUwTkdNak9nPS4Ysp9yP-gAeHepTSStnDw25KS53ijyI_ePxunezcXngFJJXV5LQThLBQwnlM2drviVZawRmYam4RoQ_68kKHtjunUJ6frSFWQleuSt7oBb8GAEWEX5GDgY9nyMzhg.png)
+![img](dev-newsletter-202211/ePNHTWTpWhGqlOyT5aV3aqkmDCvy2w2z6x2toIZd1kKZJfHcAgOppUwTkdNak9nPS4Ysp9yP-gAeHepTSStnDw25KS53ijyI_ePxunezcXngFJJXV5LQThLBQwnlM2drviVZawRmYam4RoQ_68kKHtjunUJ6frSFWQleuSt7oBb8GAEWEX5GDgY9nyMzhg.png)
 
 ### 感谢各位社区讲师在 NODES 2022 上的精彩分享
 
