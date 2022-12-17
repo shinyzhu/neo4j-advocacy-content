@@ -1,4 +1,4 @@
-# Neo4j Advocacy Content Catalog
+# Neo4j Advocacy Content Archives
 
 ## 2022-12
 
