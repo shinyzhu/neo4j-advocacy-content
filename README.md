@@ -55,4 +55,4 @@ npx docsify serve docs
 
 Then you can visit http://localhost:3000 to see the content.
 
-### View it live: <https://graph.community>
+### View it live: <http://shinyzhu.com/neo4j-advocacy-content/>
